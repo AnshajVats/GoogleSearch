@@ -1,0 +1,21 @@
+# ninja log v6
+464	543	1720250764246489168	Dictionary	7cc4b1d454e50782
+2	47	1720546057910927705	build.ninja	b017dadc5b338c35
+298	322	1720125870527298079	CCNumberValidation	bc08a3d82cebf478
+11	494	1720210913736058066	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary_data_loader.cpp.o	46beb0999dd73c71
+10	523	1720247660870286146	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary.cpp.o	de6b25057ab2d192
+2	298	1720125870231580533	CMakeFiles/CCNumberValidation.dir/Assignment-03_PB_CCNumberValidation.cpp.o	12896e7a73709d15
+11	515	1720247660871237982	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary_Print_Output.cpp.o	2fb6b90607469f7e
+256	279	1720121518119841014	TicTacToe	985777f97f55666f
+4	464	1720250763786598710	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary_User_Interface.cpp.o	952357f191b6c417
+11	532	1720247660870724106	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary_Data_Loader.cpp.o	a3632747b06160dc
+1	254	1720121517864364005	CMakeFiles/TicTacToe.dir/Assignment-03_PA_TicTacToe.cpp.o	f2dffba65e4f3560
+7	500	1720250655530365479	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary_Interaction.cpp.o	267b93c209c87fad
+2	49	1720546057910927705	build.ninja	b017dadc5b338c35
+5	2817	1720763546354483314	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary.cpp.o	de6b25057ab2d192
+2817	4188	1720763549166494132	Dictionary	7cc4b1d454e50782
+5	378	1720763709957841355	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary.cpp.o	de6b25057ab2d192
+5	397	1720763709958148646	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary_Data_Loader.cpp.o	a3632747b06160dc
+397	432	1720763710350345240	Dictionary	7cc4b1d454e50782
+12	511	1720834581519145742	CMakeFiles/Dictionary.dir/Assignment-03_PC_Dictionary.cpp.o	de6b25057ab2d192
+511	608	1720834582018187793	Dictionary	7cc4b1d454e50782
